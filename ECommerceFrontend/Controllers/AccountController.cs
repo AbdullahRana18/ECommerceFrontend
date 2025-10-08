@@ -27,7 +27,8 @@ namespace ECommerceFrontend.Controllers
                Encoding.UTF8,
                "application/json"
                );
-            var response = await client.PostAsync("User/login", content);
+            var response = await client.PostAsync("Users/login", content);
+
 
             if (response.IsSuccessStatusCode)
             {
@@ -36,7 +37,7 @@ namespace ECommerceFrontend.Controllers
                
                 HttpContext.Session.SetString("JWToken", result);
 
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Index", "Products");
             }
 
             ViewBag.Error = "Invalid email or password.";
@@ -45,6 +46,37 @@ namespace ECommerceFrontend.Controllers
         [HttpGet]
         public IActionResult Signup()
         {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Signup(string Name, string Email, string PasswordHash)
+        {
+            var client = clientFactory.CreateClient("ECommerceAPI");
+
+            var signupData = new
+            {
+                Name = Name,
+                Email = Email,
+                PasswordHash = PasswordHash,
+                Role = "User"
+            };
+
+            var content = new StringContent(
+                JsonSerializer.Serialize(signupData),
+                Encoding.UTF8,
+                "application/json"
+            );
+
+            var response = await client.PostAsync("Users/register", content);
+            var result = await response.Content.ReadAsStringAsync();
+
+            if (response.IsSuccessStatusCode)
+            {
+                TempData["Success"] = "Signup successful! Please login now.";
+                return RedirectToAction("Login");
+            }
+
+            ViewBag.Error = $"Signup failed: {result}";
             return View();
         }
     }

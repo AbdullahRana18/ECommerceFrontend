@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\ASPNET\\ECommerceFrontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|d:\\aspnet\\ecommercefrontend\\ecommercefrontend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|solutionrelative:ecommercefrontend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|d:\\aspnet\\ecommercefrontend\\ecommercefrontend\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|solutionrelative:ecommercefrontend\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|solutionrelative:ecommercefrontend\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|d:\\aspnet\\ecommercefrontend\\ecommercefrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|solutionrelative:ecommercefrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|d:\\aspnet\\ecommercefrontend\\ecommercefrontend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|solutionrelative:ecommercefrontend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|d:\\aspnet\\ecommercefrontend\\ecommercefrontend\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|solutionrelative:ecommercefrontend\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|d:\\aspnet\\ecommercefrontend\\ecommercefrontend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|solutionrelative:ecommercefrontend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|d:\\aspnet\\ecommercefrontend\\ecommercefrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|solutionrelative:ecommercefrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|d:\\aspnet\\ecommercefrontend\\ecommercefrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|solutionrelative:ecommercefrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{619A61FB-B25B-6BB0-2241-2AFD546E2CB9}|ECommerceFrontend\\ECommerceFrontend.csproj|d:\\aspnet\\ecommercefrontend\\ecommercefrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -41,46 +49,38 @@
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Signup.cshtml",
-              "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Account\\Signup.cshtml",
-              "RelativeDocumentMoniker": "ECommerceFrontend\\Views\\Account\\Signup.cshtml",
-              "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Account\\Signup.cshtml",
-              "RelativeToolTip": "ECommerceFrontend\\Views\\Account\\Signup.cshtml",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-06T15:49:37.882Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ECommerceFrontend\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ECommerceFrontend\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceFrontend\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ECommerceFrontend\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-06T15:45:33.666Z",
+              "WhenOpened": "2025-10-07T15:45:15.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerceFrontend\\Program.cs",
-              "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Program.cs",
-              "RelativeToolTip": "ECommerceFrontend\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerceFrontend\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerceFrontend\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T15:45:15.899Z"
+              "WhenOpened": "2025-10-07T15:44:03.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerceFrontend\\appsettings.json",
@@ -92,13 +92,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ECommerceFrontend\\Views\\Account\\Login.cshtml",
               "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "ECommerceFrontend\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-06T15:43:07.152Z",
               "EditorCaption": ""
@@ -106,19 +106,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Account\\Signup.cshtml",
+              "RelativeDocumentMoniker": "ECommerceFrontend\\Views\\Account\\Signup.cshtml",
+              "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Account\\Signup.cshtml",
+              "RelativeToolTip": "ECommerceFrontend\\Views\\Account\\Signup.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T15:49:37.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ECommerceFrontend\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Controllers\\AccountController.cs",
               "RelativeToolTip": "ECommerceFrontend\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T15:39:46.041Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceFrontend\\Program.cs",
+              "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Program.cs",
+              "RelativeToolTip": "ECommerceFrontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:45:15.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ECommerceFrontend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASPNET\\ECommerceFrontend\\ECommerceFrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ECommerceFrontend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T15:45:33.666Z"
             }
           ]
         }

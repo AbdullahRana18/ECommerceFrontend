@@ -7,6 +7,12 @@
         <div class="col-md-5">
             <div class="card shadow p-4 rounded-3">
                 <h3 class="text-center mb-4">Create Your Account</h3>
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger text-center">
+                        @ViewBag.Error
+                    </div>
+                }
 
                 <form method="post" asp-action="Signup">
                     <div class="form-group mb-3">
